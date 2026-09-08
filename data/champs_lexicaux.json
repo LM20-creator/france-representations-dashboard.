@@ -1,0 +1,1582 @@
+[
+  {
+    "nom": "Arbitrage institutionnel et droits sociaux",
+    "description_courte": "Le champ « Arbitrage institutionnel et droits sociaux » rassemble des preuves où la représentation de la France s’organise surtout autour de Politique, Socio-économique. Sa tonalité dominante dans le sous-corpus est ambivalente.",
+    "analyse": "Ce champ regroupe 26 preuves du data.json, soit 7.6 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Ambivalent et le secteur le plus présent est Politique. Le principal événement associé est Campagne presidentielle francaise 2027, avec 11 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Politique, Socio-économique. Les catégories d’événements les plus visibles sont séquences politiques et débats publics, autres contextes documentés.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : fonction publique, peuple français, classes moyennes, entreprises, rupture, Gabriel Attal. Les verbes les plus visibles sont : fragiliser, soutenir, améliorer, s'opposer, alerter. Les expressions caractéristiques comprennent : remettre la France à l'endroit, relever la France, plus rien ne marche, mépris du peuple français. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "26 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Ambivalent.",
+      "Secteur le plus présent : Politique.",
+      "Événement principal : Campagne presidentielle francaise 2027 (11 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 26,
+    "repartition_ton": {
+      "Négatif": 10,
+      "Ambivalent": 13,
+      "Neutre": 3,
+      "Positif": 0
+    },
+    "ton_dominant": "Ambivalent",
+    "secteurs_principaux": [
+      {
+        "nom": "Politique",
+        "nb_sources": 21
+      },
+      {
+        "nom": "Socio-économique",
+        "nb_sources": 5
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Campagne presidentielle francaise 2027",
+        "nb_sources": 11
+      },
+      {
+        "nom": "Reforme des franchises medicales - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Suite judiciaire de l'affaire Fillon - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Debat sur les agences environnementales - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Rentree politique ecologique de LFI - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Budget 2027 et loi speciale prolongee",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Universites d'ete de la gauche - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Publication loi aide a mourir - aout 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 19,
+      "Collectif": 7
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "fonction publique",
+        "peuple français",
+        "classes moyennes",
+        "entreprises",
+        "rupture",
+        "Gabriel Attal",
+        "campagne",
+        "hôpital",
+        "résidence seniors",
+        "loi française"
+      ],
+      "adjectifs": [
+        "unie",
+        "présidentielle",
+        "local",
+        "social",
+        "sociétal",
+        "territoriaux",
+        "municipal",
+        "désespérante"
+      ],
+      "verbes": [
+        "fragiliser",
+        "soutenir",
+        "améliorer",
+        "s'opposer",
+        "alerter",
+        "observer",
+        "mobiliser",
+        "relever"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "remettre la France à l'endroit",
+      "relever la France",
+      "plus rien ne marche",
+      "mépris du peuple français",
+      "campagne à travers la France",
+      "atmosphère qui règne en France",
+      "accusées de tous les maux",
+      "injonctions politiques"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Arbitrage institutionnel et droits sociaux",
+      "Politique + ambivalent",
+      "Politique + négatif",
+      "France + reforme sociale",
+      "protection sociale + justice",
+      "gouvernement + renoncement",
+      "ancien Premier ministre + condamnation",
+      "Legion d'honneur + suspension",
+      "institutions + sanction",
+      "France + agences"
+    ],
+    "limites": "Le champ est fortement influencé par un contexte dominant : Campagne presidentielle francaise 2027 (42.3 % des preuves du champ)."
+  },
+  {
+    "nom": "Compétitivité économique",
+    "description_courte": "Le champ « Compétitivité économique » rassemble des preuves où la représentation de la France s’organise surtout autour de Industrie, Socio-économique. Sa tonalité dominante dans le sous-corpus est négatif / ambivalent.",
+    "analyse": "Ce champ regroupe 29 preuves du data.json, soit 8.5 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Négatif / Ambivalent et le secteur le plus présent est Industrie. Le principal événement associé est REF 2026 - debat Produire ou perir, avec 3 preuves.\n\nLes représentations sont majoritairement collectives dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Industrie, Socio-économique, Agriculture et agroalimentaire. Les catégories d’événements les plus visibles sont autres contextes documentés, résultats, souveraineté et opérations d’entreprise, séquences politiques et débats publics.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : foncier, CMA CGM, chiffre d'affaires, France 2030, recrutements, TotalEnergies. Les verbes les plus visibles sont : produire, fragiliser, securiser, investir, soutenir. Les expressions caractéristiques comprennent : toujours à la peine, largement derrière ses voisins européens, 6 % des maisons individuelles françaises, moteur de la croissance européenne. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "29 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Négatif / Ambivalent.",
+      "Secteur le plus présent : Industrie.",
+      "Événement principal : REF 2026 - debat Produire ou perir (3 preuves).",
+      "Échelle : Collectif."
+    ],
+    "nb_sources": 29,
+    "repartition_ton": {
+      "Négatif": 10,
+      "Ambivalent": 10,
+      "Neutre": 1,
+      "Positif": 8
+    },
+    "ton_dominant": "Négatif / Ambivalent",
+    "secteurs_principaux": [
+      {
+        "nom": "Industrie",
+        "nb_sources": 14
+      },
+      {
+        "nom": "Socio-économique",
+        "nb_sources": 10
+      },
+      {
+        "nom": "Agriculture et agroalimentaire",
+        "nb_sources": 5
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "REF 2026 - debat Produire ou perir",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Croissance francaise au deuxieme trimestre 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Relations France Arabie saoudite - aout 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Campagne presidentielle francaise 2027",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Coentreprise CMA CGM TotalEnergies GNL - 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Inflation en France - juillet 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Hausse des tarifs reglementes de l'electricite - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Conjoncture francaise - troisieme trimestre 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 14,
+      "Collectif": 15
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "foncier",
+        "CMA CGM",
+        "chiffre d'affaires",
+        "France 2030",
+        "recrutements",
+        "TotalEnergies",
+        "GNL",
+        "solaire individuel",
+        "panneaux solaires",
+        "maisons individuelles"
+      ],
+      "adjectifs": [
+        "strategique",
+        "critique",
+        "durable",
+        "moribonde",
+        "stable",
+        "imprevisible",
+        "record",
+        "complexe"
+      ],
+      "verbes": [
+        "produire",
+        "fragiliser",
+        "securiser",
+        "investir",
+        "soutenir",
+        "relocaliser",
+        "renforcer",
+        "croître"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "toujours à la peine",
+      "largement derrière ses voisins européens",
+      "6 % des maisons individuelles françaises",
+      "moteur de la croissance européenne",
+      "berceau du groupe",
+      "peloton de tête européen",
+      "croît plus vite que le marché européen",
+      "loi plein emploi"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Compétitivité économique",
+      "France + Souveraineté industrielle et productive",
+      "France + Crise et vulnérabilité",
+      "France + Rayonnement culturel et territorial",
+      "France + retard solaire",
+      "maisons françaises + faible équipement",
+      "France + comparaison européenne défavorable",
+      "France + croissance",
+      "Danone + groupe français",
+      "marché hexagonal + moteur européen"
+    ],
+    "limites": "Aucune limite spécifique majeure visible au-delà du périmètre général : analyse fondée uniquement sur les preuves présentes dans `03_OUTPUTS/dashboard/data/data.json`."
+  },
+  {
+    "nom": "Contrôle frontalier et sécurité migratoire",
+    "description_courte": "Le champ « Contrôle frontalier et sécurité migratoire » est faiblement documenté dans le sous-corpus exporté. Il apparaît surtout dans Politique, avec une dominante négative.",
+    "analyse": "Ce champ regroupe 7 preuves du data.json, soit 2.0 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Négatif et le secteur le plus présent est Politique. Le principal événement associé est Debat sur les frontieres franco-espagnoles - juillet 2026, avec 2 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Politique. Les catégories d’événements les plus visibles sont séquences politiques et débats publics, autres contextes documentés.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : intimidation, tirs, Manche, navire français, immigration clandestine, préfecture de police. Les verbes les plus visibles sont : accuser, interrompre, tirer, expulser, contester. Les expressions caractéristiques comprennent : accuse la France d'intimidation, tirs venant d'un navire français. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "7 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Négatif.",
+      "Secteur le plus présent : Politique.",
+      "Événement principal : Debat sur les frontieres franco-espagnoles - juillet 2026 (2 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 7,
+    "repartition_ton": {
+      "Négatif": 5,
+      "Ambivalent": 1,
+      "Neutre": 0,
+      "Positif": 1
+    },
+    "ton_dominant": "Négatif",
+    "secteurs_principaux": [
+      {
+        "nom": "Politique",
+        "nb_sources": 7
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Debat sur les frontieres franco-espagnoles - juillet 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Debat sur l'immigration a Mayotte - aout 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Accord migratoire France-Royaume-Uni sur les small boats",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Expulsion contestée d'un opposant équato-guinéen - 2013",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 4,
+      "Collectif": 3
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "intimidation",
+        "tirs",
+        "Manche",
+        "navire français",
+        "immigration clandestine",
+        "préfecture de police",
+        "expulsion",
+        "opposant politique"
+      ],
+      "adjectifs": [
+        "britannique",
+        "conservateur",
+        "politique",
+        "contestée"
+      ],
+      "verbes": [
+        "accuser",
+        "interrompre",
+        "tirer",
+        "expulser",
+        "contester"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "accuse la France d'intimidation",
+      "tirs venant d'un navire français"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + intimidation",
+      "navire français + tirs",
+      "Manche + immigration clandestine",
+      "France + frontieres + danger",
+      "immigration + menace politique",
+      "Europe + controle frontalier",
+      "France + controle frontalier",
+      "Etat francais + securite du territoire",
+      "frontiere franco-espagnole + mobilisation",
+      "Mayotte + territoire national"
+    ],
+    "limites": "Volume faible : les résultats doivent être lus comme des signaux exploratoires."
+  },
+  {
+    "nom": "Crise et vulnérabilité",
+    "description_courte": "Le champ « Crise et vulnérabilité » rassemble des preuves où la représentation de la France s’organise surtout autour de Socio-économique, Politique. Sa tonalité dominante dans le sous-corpus est négative.",
+    "analyse": "Ce champ regroupe 146 preuves du data.json, soit 42.6 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Négatif et le secteur le plus présent est Socio-économique. Le principal événement associé est Crises climatiques estivales en France - 2026, avec 53 preuves.\n\nLes représentations sont majoritairement collectives dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Socio-économique, Politique, Industrie. Les catégories d’événements les plus visibles sont crises climatiques et risques naturels, autres contextes documentés, séquences politiques et débats publics.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : canicule, records, Météo-France, sécheresse, écoles, souverainete. Les verbes les plus visibles sont : mobiliser, alerter, observer, soutenir, atteindre. Les expressions caractéristiques comprennent : grande braderie, plus dévastateur qu'ait connu la France hexagonale depuis un demi-siècle, mise à l'arrêt de plus de 13 000 entreprises, grâce à la mobilisation des services d'incendie et de secours. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "146 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Négatif.",
+      "Secteur le plus présent : Socio-économique.",
+      "Événement principal : Crises climatiques estivales en France - 2026 (53 preuves).",
+      "Échelle : Collectif."
+    ],
+    "nb_sources": 146,
+    "repartition_ton": {
+      "Négatif": 102,
+      "Ambivalent": 43,
+      "Neutre": 1,
+      "Positif": 0
+    },
+    "ton_dominant": "Négatif",
+    "secteurs_principaux": [
+      {
+        "nom": "Socio-économique",
+        "nb_sources": 66
+      },
+      {
+        "nom": "Politique",
+        "nb_sources": 35
+      },
+      {
+        "nom": "Industrie",
+        "nb_sources": 18
+      },
+      {
+        "nom": "Agriculture et agroalimentaire",
+        "nb_sources": 13
+      },
+      {
+        "nom": "Tourisme",
+        "nb_sources": 9
+      },
+      {
+        "nom": "Sport",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Culture",
+        "nb_sources": 2
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Crises climatiques estivales en France - 2026",
+        "nb_sources": 53
+      },
+      {
+        "nom": "Campagne presidentielle francaise 2027",
+        "nb_sources": 10
+      },
+      {
+        "nom": "Debat sur l'immigration a Mayotte - aout 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Cyberattaques contre les services publics francais - aout 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "REF 2026 - debat Produire ou perir",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Reouverture de la foret de Fontainebleau - aout 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Orages en France - aout 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Budget 2027 et loi speciale prolongee",
+        "nb_sources": 2
+      }
+    ],
+    "echelles": {
+      "Individuel": 53,
+      "Collectif": 93
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "canicule",
+        "records",
+        "Météo-France",
+        "sécheresse",
+        "écoles",
+        "souverainete",
+        "chaleur",
+        "Greve",
+        "Sud-Ouest",
+        "urgence"
+      ],
+      "adjectifs": [
+        "strategique",
+        "intense",
+        "durable",
+        "difficile",
+        "orange",
+        "rouge",
+        "judiciaire",
+        "imprevisible"
+      ],
+      "verbes": [
+        "mobiliser",
+        "alerter",
+        "observer",
+        "soutenir",
+        "atteindre",
+        "protéger",
+        "fragiliser",
+        "produire"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "grande braderie",
+      "plus dévastateur qu'ait connu la France hexagonale depuis un demi-siècle",
+      "mise à l'arrêt de plus de 13 000 entreprises",
+      "grâce à la mobilisation des services d'incendie et de secours",
+      "exposition des sites Seveso aux risques des feux de forêt",
+      "dispositifs de protection autour des sites industriels",
+      "infrastructure industrielle pyrotechnique",
+      "armada venue de toute l'Europe"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Crise et vulnérabilité",
+      "France + Souveraineté industrielle et productive",
+      "France + Compétitivité économique",
+      "France + records de chaleur",
+      "France + canicule",
+      "France + sécheresse",
+      "France + mois le plus chaud",
+      "Socio-économique + négatif",
+      "France + catastrophe économique",
+      "Gironde + entreprises à l'arrêt"
+    ],
+    "limites": "Le champ est fortement influencé par un contexte dominant : Crises climatiques estivales en France - 2026 (36.3 % des preuves du champ)."
+  },
+  {
+    "nom": "Excellence scientifique industrielle et académique",
+    "description_courte": "Le champ « Excellence scientifique industrielle et académique » rassemble des preuves où la représentation de la France s’organise surtout autour de Industrie, Socio-économique. Sa tonalité dominante dans le sous-corpus est positive.",
+    "analyse": "Ce champ regroupe 13 preuves du data.json, soit 3.8 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Positif et le secteur le plus présent est Industrie. Le principal événement associé est Licorne Zama et chiffrement homomorphe, avec 1 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Industrie, Socio-économique, Agriculture et agroalimentaire. Les catégories d’événements les plus visibles sont autres contextes documentés, résultats, souveraineté et opérations d’entreprise, séquences politiques et débats publics.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : France 2030, recharge publique, réseau français, infrastructures, objectifs européens, grands axes. Les verbes les plus visibles sont : structurer, devancer, dépasser, couvrir, satisfaire. Les expressions caractéristiques comprennent : pays européens les plus en avance, 140 % de l'objectif fixé par Bruxelles, 99 % de conformité, les infrastructures sont au rendez-vous. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "13 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Positif.",
+      "Secteur le plus présent : Industrie.",
+      "Événement principal : Licorne Zama et chiffrement homomorphe (1 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 13,
+    "repartition_ton": {
+      "Négatif": 0,
+      "Ambivalent": 3,
+      "Neutre": 0,
+      "Positif": 10
+    },
+    "ton_dominant": "Positif",
+    "secteurs_principaux": [
+      {
+        "nom": "Industrie",
+        "nb_sources": 11
+      },
+      {
+        "nom": "Socio-économique",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Agriculture et agroalimentaire",
+        "nb_sources": 1
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Licorne Zama et chiffrement homomorphe",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Projet de data centers IA dans l'Oise",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Sortie spatiale Sophie Adenot - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Classement de Shanghai 2026 et universités françaises",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Deces de Guillaume Guillemot - Ubisoft - juin 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Data centers et emplois IA en France - 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Coopération défense France-Corée du Sud - juin 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Plan national terres rares et aimants permanents - mai 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 9,
+      "Collectif": 4
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "France 2030",
+        "recharge publique",
+        "réseau français",
+        "infrastructures",
+        "objectifs européens",
+        "grands axes",
+        "maillage",
+        "transparence des prix",
+        "classement de Shanghai",
+        "Université de Bretagne occidentale"
+      ],
+      "adjectifs": [
+        "strategique",
+        "conforme",
+        "avancé",
+        "massive",
+        "publique",
+        "meilleures",
+        "première"
+      ],
+      "verbes": [
+        "structurer",
+        "devancer",
+        "dépasser",
+        "couvrir",
+        "satisfaire",
+        "déployer",
+        "apparaître",
+        "dévoiler"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "pays européens les plus en avance",
+      "140 % de l'objectif fixé par Bruxelles",
+      "99 % de conformité",
+      "les infrastructures sont au rendez-vous",
+      "parmi les 1 000 meilleures universités du monde",
+      "pour la première fois",
+      "marché de l'emploi en pleine Ebullition",
+      "reconquete d'une filiere industrielle strategique"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Souveraineté industrielle et productive",
+      "France + Excellence scientifique industrielle et académique",
+      "France + avance infrastructurelle",
+      "recharge publique + conformité européenne",
+      "Hexagone + objectifs dépassés",
+      "France + solutions souveraines",
+      "France + singularite",
+      "Deezer + concurrence mondiale",
+      "CB + reseau national",
+      "France + cryptographie"
+    ],
+    "limites": "Aucune limite spécifique majeure visible au-delà du périmètre général : analyse fondée uniquement sur les preuves présentes dans `03_OUTPUTS/dashboard/data/data.json`."
+  },
+  {
+    "nom": "Imaginaire national et fiction",
+    "description_courte": "Le champ « Imaginaire national et fiction » est faiblement documenté dans le sous-corpus exporté. Il apparaît surtout dans Culture, avec une dominante ambivalent / neutre / positif.",
+    "analyse": "Ce champ regroupe 3 preuves du data.json, soit 0.9 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Ambivalent / Neutre / Positif et le secteur le plus présent est Culture. Le principal événement associé est Diffusion documentaire La France de l'après-guerre - 2026, avec 1 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Culture. Les catégories d’événements les plus visibles sont autres contextes documentés.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : après-guerre, Trente Glorieuses, renaissance, pénuries, guerre d'Algérie, Louis XVI. Les verbes les plus visibles sont : renaître, reconstruire, conserver, profiter, entrer en guerre. Les expressions caractéristiques comprennent : chaos et renaissance, jours heureux, la France est prête à tout pour conserver son empire, la France entre en guerre. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "3 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Ambivalent / Neutre / Positif.",
+      "Secteur le plus présent : Culture.",
+      "Événement principal : Diffusion documentaire La France de l'après-guerre - 2026 (1 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 3,
+    "repartition_ton": {
+      "Négatif": 0,
+      "Ambivalent": 1,
+      "Neutre": 1,
+      "Positif": 1
+    },
+    "ton_dominant": "Ambivalent / Neutre / Positif",
+    "secteurs_principaux": [
+      {
+        "nom": "Culture",
+        "nb_sources": 3
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Diffusion documentaire La France de l'après-guerre - 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Diffusion documentaire Guerre d'indépendance américaine - 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Diffusion des Sous-Doués sur TMC - juin 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 2,
+      "Collectif": 1
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "après-guerre",
+        "Trente Glorieuses",
+        "renaissance",
+        "pénuries",
+        "guerre d'Algérie",
+        "Louis XVI",
+        "Patriots",
+        "guerre de Sept Ans",
+        "alliance franco-américaine",
+        "cinéma français"
+      ],
+      "adjectifs": [
+        "contrastée",
+        "fragile",
+        "industrielle",
+        "sanglante",
+        "colonial",
+        "international",
+        "franco-américaine",
+        "culte"
+      ],
+      "verbes": [
+        "renaître",
+        "reconstruire",
+        "conserver",
+        "profiter",
+        "entrer en guerre",
+        "capituler",
+        "reconnaître",
+        "négocier"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "chaos et renaissance",
+      "jours heureux",
+      "la France est prête à tout pour conserver son empire",
+      "la France entre en guerre",
+      "alliance franco-américaine",
+      "traité de Paris de 1783",
+      "phénomène culturel durable",
+      "prestige du cinéma français"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + reconstruction + désillusions",
+      "Français + croissance + guerre d'Algérie",
+      "France + alliance américaine",
+      "France + conflit international",
+      "cinéma français + film culte",
+      "comédie française + mémoire collective"
+    ],
+    "limites": "Volume faible : les résultats doivent être lus comme des signaux exploratoires."
+  },
+  {
+    "nom": "Liberté d'expression et censure",
+    "description_courte": "Le champ « Liberté d'expression et censure » est faiblement documenté dans le sous-corpus exporté. Il apparaît surtout dans Politique, avec une dominante ambivalente.",
+    "analyse": "Ce champ regroupe 7 preuves du data.json, soit 2.0 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Ambivalent et le secteur le plus présent est Politique. Le principal événement associé est Expulsion de Xenia Fedorova - juillet 2026, avec 5 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Politique. Les catégories d’événements les plus visibles sont autres contextes documentés, événements culturels et patrimoniaux, séquences politiques et débats publics.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : désinformation, ordre public, liberté d'expression, expulsion, opinion publique, OQTF. Les verbes les plus visibles sont : manipuler, expulser, relayer, saper, ordonner. Les expressions caractéristiques comprennent : menace particulièrement grave et actuelle pour l'ordre public, atteinte grave à la liberté d'expression, liberté de la presse, En France, certaines paroles semblent peser plus lourd que certains actes. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "7 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Ambivalent.",
+      "Secteur le plus présent : Politique.",
+      "Événement principal : Expulsion de Xenia Fedorova - juillet 2026 (5 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 7,
+    "repartition_ton": {
+      "Négatif": 3,
+      "Ambivalent": 4,
+      "Neutre": 0,
+      "Positif": 0
+    },
+    "ton_dominant": "Ambivalent",
+    "secteurs_principaux": [
+      {
+        "nom": "Politique",
+        "nb_sources": 7
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Expulsion de Xenia Fedorova - juillet 2026",
+        "nb_sources": 5
+      },
+      {
+        "nom": "Fête de la musique 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Campagne presidentielle francaise 2027",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 7,
+      "Collectif": 0
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "désinformation",
+        "ordre public",
+        "liberté d'expression",
+        "expulsion",
+        "opinion publique",
+        "OQTF",
+        "liberté de la presse",
+        "gestion des incendies",
+        "délit d'opinion",
+        "campagne médiatique"
+      ],
+      "adjectifs": [
+        "grave",
+        "actuelle",
+        "prorusse",
+        "ministériel",
+        "officiel",
+        "occidental",
+        "dominant",
+        "limpide"
+      ],
+      "verbes": [
+        "manipuler",
+        "expulser",
+        "relayer",
+        "saper",
+        "ordonner",
+        "garder",
+        "menacer",
+        "contester"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "menace particulièrement grave et actuelle pour l'ordre public",
+      "atteinte grave à la liberté d'expression",
+      "liberté de la presse",
+      "En France, certaines paroles semblent peser plus lourd que certains actes",
+      "détourner l'opinion publique",
+      "la liberté d'expression devient un délit d'opinion",
+      "récit unique occidental",
+      "danger pour la République"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + liberté d'expression",
+      "France + expulsion",
+      "Etat français + ordre public",
+      "France + liberté de la presse",
+      "France + OQTF",
+      "Macron + gestion des priorités",
+      "France + délit d'opinion",
+      "Etat français + censure",
+      "France + récit unique",
+      "pouvoir + opinions tolérées"
+    ],
+    "limites": "Volume faible : les résultats doivent être lus comme des signaux exploratoires. Le champ est fortement influencé par un contexte dominant : Expulsion de Xenia Fedorova - juillet 2026 (71.4 % des preuves du champ)."
+  },
+  {
+    "nom": "Mobilisation et protection",
+    "description_courte": "Le champ « Mobilisation et protection » rassemble des preuves où la représentation de la France s’organise surtout autour de Socio-économique, Politique. Sa tonalité dominante dans le sous-corpus est positive.",
+    "analyse": "Ce champ regroupe 79 preuves du data.json, soit 23.0 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Positif et le secteur le plus présent est Socio-économique. Le principal événement associé est Crises climatiques estivales en France - 2026, avec 20 preuves.\n\nLes représentations sont majoritairement collectives dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Socio-économique, Politique, Industrie. Les catégories d’événements les plus visibles sont autres contextes documentés, crises climatiques et risques naturels, séquences politiques et débats publics.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : Météo-France, canicule, chaleur, entreprises, sécheresse, France 2030. Les verbes les plus visibles sont : mobiliser, alerter, observer, protéger, securiser. Les expressions caractéristiques comprennent : grande braderie, plus dévastateur qu'ait connu la France hexagonale depuis un demi-siècle, mise à l'arrêt de plus de 13 000 entreprises, grâce à la mobilisation des services d'incendie et de secours. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "79 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Positif.",
+      "Secteur le plus présent : Socio-économique.",
+      "Événement principal : Crises climatiques estivales en France - 2026 (20 preuves).",
+      "Échelle : Collectif."
+    ],
+    "nb_sources": 79,
+    "repartition_ton": {
+      "Négatif": 5,
+      "Ambivalent": 22,
+      "Neutre": 16,
+      "Positif": 36
+    },
+    "ton_dominant": "Positif",
+    "secteurs_principaux": [
+      {
+        "nom": "Socio-économique",
+        "nb_sources": 32
+      },
+      {
+        "nom": "Politique",
+        "nb_sources": 19
+      },
+      {
+        "nom": "Industrie",
+        "nb_sources": 10
+      },
+      {
+        "nom": "Sport",
+        "nb_sources": 8
+      },
+      {
+        "nom": "Agriculture et agroalimentaire",
+        "nb_sources": 7
+      },
+      {
+        "nom": "Culture",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Tourisme",
+        "nb_sources": 1
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Crises climatiques estivales en France - 2026",
+        "nb_sources": 20
+      },
+      {
+        "nom": "Orages en France - aout 2026",
+        "nb_sources": 4
+      },
+      {
+        "nom": "Éclipse solaire observée en France - août 2026",
+        "nb_sources": 4
+      },
+      {
+        "nom": "Succes sportifs francais - aout 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Soutien francais a l'Ukraine - aout 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Championnats d'Europe de natation Paris 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Cooperation France Madagascar - juin 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Vigilances météorologiques en France - septembre 2026",
+        "nb_sources": 2
+      }
+    ],
+    "echelles": {
+      "Individuel": 34,
+      "Collectif": 45
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "Météo-France",
+        "canicule",
+        "chaleur",
+        "entreprises",
+        "sécheresse",
+        "France 2030",
+        "fleurons industriels",
+        "savoir-faire",
+        "paix",
+        "vigilance"
+      ],
+      "adjectifs": [
+        "strategique",
+        "dangereux",
+        "inédit",
+        "exceptionnel",
+        "orange",
+        "national",
+        "decarbonee",
+        "strict"
+      ],
+      "verbes": [
+        "mobiliser",
+        "alerter",
+        "observer",
+        "protéger",
+        "securiser",
+        "ravager",
+        "aider"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "grande braderie",
+      "plus dévastateur qu'ait connu la France hexagonale depuis un demi-siècle",
+      "mise à l'arrêt de plus de 13 000 entreprises",
+      "grâce à la mobilisation des services d'incendie et de secours",
+      "exposition des sites Seveso aux risques des feux de forêt",
+      "dispositifs de protection autour des sites industriels",
+      "infrastructure industrielle pyrotechnique",
+      "avion militaire français"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Souveraineté industrielle et productive",
+      "France + Crise et vulnérabilité",
+      "France + orages",
+      "France + Mobilisation et protection",
+      "France + catastrophe économique",
+      "Gironde + entreprises à l'arrêt",
+      "Etat + mobilisation",
+      "services de secours + dégâts limités",
+      "industrie française + exposition au risque",
+      "sites Seveso + protection"
+    ],
+    "limites": "Aucune limite spécifique majeure visible au-delà du périmètre général : analyse fondée uniquement sur les preuves présentes dans `03_OUTPUTS/dashboard/data/data.json`."
+  },
+  {
+    "nom": "Performance sportive française",
+    "description_courte": "Le champ « Performance sportive française » rassemble des preuves où la représentation de la France s’organise surtout autour de Sport. Sa tonalité dominante dans le sous-corpus est positive.",
+    "analyse": "Ce champ regroupe 27 preuves du data.json, soit 7.9 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Positif et le secteur le plus présent est Sport. Le principal événement associé est Coupe du monde 2026 - équipe de France, avec 5 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Sport. Les catégories d’événements les plus visibles sont compétitions et récits sportifs, autres contextes documentés.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : Bleus, équipe de France, Mbappé, équipe nationale, Fédération française de football, Ballon d'Or 1998. Les verbes les plus visibles sont : revenir, alerter, observer, mobiliser, nommer. Les expressions caractéristiques comprennent : icône du football français, sa nomination apparaissait comme une évidence, 77 % des Français ont un a priori très positif, revient par la grande porte. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "27 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Positif.",
+      "Secteur le plus présent : Sport.",
+      "Événement principal : Coupe du monde 2026 - équipe de France (5 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 27,
+    "repartition_ton": {
+      "Négatif": 0,
+      "Ambivalent": 1,
+      "Neutre": 0,
+      "Positif": 26
+    },
+    "ton_dominant": "Positif",
+    "secteurs_principaux": [
+      {
+        "nom": "Sport",
+        "nb_sources": 27
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Coupe du monde 2026 - équipe de France",
+        "nb_sources": 5
+      },
+      {
+        "nom": "Championnats d'Europe de natation Paris 2026",
+        "nb_sources": 4
+      },
+      {
+        "nom": "Succes sportifs francais - aout 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Succes sportifs francais - juin 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Nomination de Zinédine Zidane sélectionneur - juillet 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Euro Cecifoot 2026 a Strasbourg",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Septembre Bouge - rentrée sportive 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Jeux de Paris 2024 - reussite image et heritage",
+        "nb_sources": 2
+      }
+    ],
+    "echelles": {
+      "Individuel": 15,
+      "Collectif": 12
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "Bleus",
+        "équipe de France",
+        "Mbappé",
+        "équipe nationale",
+        "Fédération française de football",
+        "Ballon d'Or 1998",
+        "icône",
+        "unanimité",
+        "sélection tricolore",
+        "numéro 10"
+      ],
+      "adjectifs": [
+        "officiel",
+        "historique",
+        "sportif",
+        "national",
+        "positif",
+        "mythique",
+        "extraordinaire",
+        "immense"
+      ],
+      "verbes": [
+        "revenir",
+        "alerter",
+        "observer",
+        "mobiliser",
+        "nommer",
+        "succéder",
+        "assumer",
+        "faire l'unanimité"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "icône du football français",
+      "sa nomination apparaissait comme une évidence",
+      "77 % des Français ont un a priori très positif",
+      "revient par la grande porte",
+      "la seule chose que je voulais faire",
+      "légende du football français",
+      "attentes immenses",
+      "#teamfrance"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + icône sportive",
+      "Bleus + évidence",
+      "Zidane + unanimité",
+      "France + légende sportive",
+      "Bleus + grande porte",
+      "Zidane + attente collective",
+      "Francais + titre",
+      "Masters 1000 + victoire",
+      "Tricolore + performance",
+      "premier Francais + champion du monde"
+    ],
+    "limites": "Aucune limite spécifique majeure visible au-delà du périmètre général : analyse fondée uniquement sur les preuves présentes dans `03_OUTPUTS/dashboard/data/data.json`."
+  },
+  {
+    "nom": "Rayonnement culturel et territorial",
+    "description_courte": "Le champ « Rayonnement culturel et territorial » rassemble des preuves où la représentation de la France s’organise surtout autour de Culture, Tourisme. Sa tonalité dominante dans le sous-corpus est positive.",
+    "analyse": "Ce champ regroupe 46 preuves du data.json, soit 13.4 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Positif et le secteur le plus présent est Culture. Le principal événement associé est Fête de la musique 2026, avec 3 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Culture, Tourisme, Industrie. Les catégories d’événements les plus visibles sont autres contextes documentés, événements culturels et patrimoniaux, résultats, souveraineté et opérations d’entreprise.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : patrimoine, Paris, Fête de la musique, culture, agenda, ZEvent. Les verbes les plus visibles sont : innover, soutenir, améliorer, fragiliser, découvrir. Les expressions caractéristiques comprennent : véritable patrimoine de l'alpinisme, chantier le plus haut d'Europe, bâtiment mythique, paysage d'exception. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "46 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Positif.",
+      "Secteur le plus présent : Culture.",
+      "Événement principal : Fête de la musique 2026 (3 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 46,
+    "repartition_ton": {
+      "Négatif": 1,
+      "Ambivalent": 9,
+      "Neutre": 2,
+      "Positif": 34
+    },
+    "ton_dominant": "Positif",
+    "secteurs_principaux": [
+      {
+        "nom": "Culture",
+        "nb_sources": 20
+      },
+      {
+        "nom": "Tourisme",
+        "nb_sources": 12
+      },
+      {
+        "nom": "Industrie",
+        "nb_sources": 6
+      },
+      {
+        "nom": "Politique",
+        "nb_sources": 5
+      },
+      {
+        "nom": "Sport",
+        "nb_sources": 3
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Fête de la musique 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Jeux de Paris 2024 - reussite image et heritage",
+        "nb_sources": 2
+      },
+      {
+        "nom": "ZEvent 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Décès de Kavinsky - juillet 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Reconstruction de la basilique de Saint-Denis - juillet 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "V and B Fest en Mayenne - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Tourisme estival casher dans les Alpes - aout 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Reouverture de la foret de Fontainebleau - aout 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 32,
+      "Collectif": 14
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "patrimoine",
+        "Paris",
+        "Fête de la musique",
+        "culture",
+        "agenda",
+        "ZEvent",
+        "alpinisme",
+        "Mont-Blanc",
+        "refuge",
+        "chantier"
+      ],
+      "adjectifs": [
+        "singulière",
+        "tricolore",
+        "local",
+        "international",
+        "véritable",
+        "mythique",
+        "vertigineux",
+        "moderne"
+      ],
+      "verbes": [
+        "innover",
+        "soutenir",
+        "améliorer",
+        "fragiliser",
+        "découvrir",
+        "valoriser",
+        "securiser",
+        "developper"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "véritable patrimoine de l'alpinisme",
+      "chantier le plus haut d'Europe",
+      "bâtiment mythique",
+      "paysage d'exception",
+      "figure de la French Touch",
+      "renommée internationale",
+      "le monde entier avait vibré",
+      "traverser les générations et les frontières"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Rayonnement culturel et territorial",
+      "France + Souveraineté industrielle et productive",
+      "France + Compétitivité économique",
+      "France + Excellence scientifique industrielle et académique",
+      "Mont-Blanc + patrimoine",
+      "refuge du Goûter + alpinisme",
+      "France alpine + paysage d'exception",
+      "chantier + hors norme",
+      "France + French Touch",
+      "musique française + rayonnement international"
+    ],
+    "limites": "Aucune limite spécifique majeure visible au-delà du périmètre général : analyse fondée uniquement sur les preuves présentes dans `03_OUTPUTS/dashboard/data/data.json`."
+  },
+  {
+    "nom": "Solidarité nationale",
+    "description_courte": "Le champ « Solidarité nationale » est faiblement documenté dans le sous-corpus exporté. Il apparaît surtout dans Politique, Socio-économique, avec une dominante ambivalente.",
+    "analyse": "Ce champ regroupe 4 preuves du data.json, soit 1.2 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Ambivalent et le secteur le plus présent est Politique. Le principal événement associé est Crises climatiques estivales en France - 2026, avec 3 preuves.\n\nLes représentations sont partagées entre échelle individuelle et échelle collective. Les secteurs les plus présents sont Politique, Socio-économique, Agriculture et agroalimentaire. Les catégories d’événements les plus visibles sont crises climatiques et risques naturels, affaires judiciaires, sociales et sécurité.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : pompiers, renfort, enfer, fatigue, solidarité, habitants. Les verbes les plus visibles sont : protéger, aider, combattre, ravitailler, tenir. Les expressions caractéristiques comprennent : venus de toute la France, interventions hors normes, solidarité entre collègues, élan de solidarité des habitants. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "4 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Ambivalent.",
+      "Secteur le plus présent : Politique.",
+      "Événement principal : Crises climatiques estivales en France - 2026 (3 preuves).",
+      "Échelle : Collectif / Individuel."
+    ],
+    "nb_sources": 4,
+    "repartition_ton": {
+      "Négatif": 0,
+      "Ambivalent": 4,
+      "Neutre": 0,
+      "Positif": 0
+    },
+    "ton_dominant": "Ambivalent",
+    "secteurs_principaux": [
+      {
+        "nom": "Politique",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Socio-économique",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Agriculture et agroalimentaire",
+        "nb_sources": 1
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Crises climatiques estivales en France - 2026",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Manifestations contre le racisme et l'extrême droite - juin 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 2,
+      "Collectif": 2
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "pompiers",
+        "renfort",
+        "enfer",
+        "fatigue",
+        "solidarité",
+        "habitants",
+        "monde agricole",
+        "maisons",
+        "bénévoles",
+        "pompiers professionnels"
+      ],
+      "adjectifs": [
+        "hors norme",
+        "inédit",
+        "énorme",
+        "touchant",
+        "volontaire",
+        "précieuse",
+        "périlleux",
+        "dangereux"
+      ],
+      "verbes": [
+        "protéger",
+        "aider",
+        "combattre",
+        "ravitailler",
+        "tenir",
+        "gêner",
+        "coordonner",
+        "suspendre"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "venus de toute la France",
+      "interventions hors normes",
+      "solidarité entre collègues",
+      "élan de solidarité des habitants",
+      "solidarité du monde agricole",
+      "ne pas gêner l'action des pompiers",
+      "ne pas prendre de risque",
+      "interventions en soutien"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + solidarité nationale",
+      "pompiers français + héroïsme",
+      "habitants + soutien",
+      "monde agricole + ravitaillement",
+      "France locale + entraide",
+      "bénévoles + coordination",
+      "pompiers professionnels + sécurité",
+      "incendie + risque humain",
+      "Nouvelle France",
+      "France + unité"
+    ],
+    "limites": "Volume faible : les résultats doivent être lus comme des signaux exploratoires. Le champ est fortement influencé par un contexte dominant : Crises climatiques estivales en France - 2026 (75.0 % des preuves du champ)."
+  },
+  {
+    "nom": "Souveraineté industrielle et productive",
+    "description_courte": "Le champ « Souveraineté industrielle et productive » rassemble des preuves où la représentation de la France s’organise surtout autour de Industrie, Agriculture et agroalimentaire. Sa tonalité dominante dans le sous-corpus est ambivalente.",
+    "analyse": "Ce champ regroupe 23 preuves du data.json, soit 6.7 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Ambivalent et le secteur le plus présent est Industrie. Le principal événement associé est REF 2026 - debat Produire ou perir, avec 3 preuves.\n\nLes représentations sont majoritairement collectives dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Industrie, Agriculture et agroalimentaire, Politique. Les catégories d’événements les plus visibles sont autres contextes documentés, résultats, souveraineté et opérations d’entreprise, agriculture, alimentation et filières.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : France 2030, foncier, souverainete, CMA CGM, fleurons industriels, savoir-faire. Les verbes les plus visibles sont : produire, securiser, proteger, relocaliser, investir. Les expressions caractéristiques comprennent : grande braderie, strategie de survie operationnelle, outil de production physique, independance de fabrication. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "23 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Ambivalent.",
+      "Secteur le plus présent : Industrie.",
+      "Événement principal : REF 2026 - debat Produire ou perir (3 preuves).",
+      "Échelle : Collectif."
+    ],
+    "nb_sources": 23,
+    "repartition_ton": {
+      "Négatif": 6,
+      "Ambivalent": 11,
+      "Neutre": 0,
+      "Positif": 6
+    },
+    "ton_dominant": "Ambivalent",
+    "secteurs_principaux": [
+      {
+        "nom": "Industrie",
+        "nb_sources": 19
+      },
+      {
+        "nom": "Agriculture et agroalimentaire",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Politique",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Culture",
+        "nb_sources": 1
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "REF 2026 - debat Produire ou perir",
+        "nb_sources": 3
+      },
+      {
+        "nom": "Coentreprise CMA CGM TotalEnergies GNL - 2026",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Taxe carbone UE et cables sous-marins français - 2027",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Souverainete industrielle et relocalisation en France - 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Souverainete industrielle et mineraux industriels - 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "SEPEM Douai et reindustrialisation territoriale - janvier 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Plan national terres rares et aimants permanents - mai 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Bilan de la souverainete industrielle française - 2025",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 11,
+      "Collectif": 12
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "France 2030",
+        "foncier",
+        "souverainete",
+        "CMA CGM",
+        "fleurons industriels",
+        "savoir-faire",
+        "TotalEnergies",
+        "GNL",
+        "souverainete industrielle",
+        "relocalisation"
+      ],
+      "adjectifs": [
+        "strategique",
+        "critique",
+        "imprevisible",
+        "decarbonee",
+        "strict",
+        "moribonde",
+        "stable",
+        "tricolore"
+      ],
+      "verbes": [
+        "produire",
+        "securiser",
+        "proteger",
+        "relocaliser",
+        "investir",
+        "alerter",
+        "preserver",
+        "innover"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "grande braderie",
+      "strategie de survie operationnelle",
+      "outil de production physique",
+      "independance de fabrication",
+      "interet general majeur",
+      "richesses du sous-sol",
+      "filières industrielles françaises d’excellence",
+      "pas d'usine sans ecosysteme"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + Souveraineté industrielle et productive",
+      "France + Crise et vulnérabilité",
+      "France + Compétitivité économique",
+      "France + Rayonnement culturel et territorial",
+      "France + Souveraineté informationnelle",
+      "France + Mobilisation et protection",
+      "France + Excellence scientifique industrielle et académique",
+      "fleurons français + compétitivité menacée",
+      "flotte française + souveraineté",
+      "France + préparation de crise"
+    ],
+    "limites": "Aucune limite spécifique majeure visible au-delà du périmètre général : analyse fondée uniquement sur les preuves présentes dans `03_OUTPUTS/dashboard/data/data.json`."
+  },
+  {
+    "nom": "Souveraineté informationnelle",
+    "description_courte": "Le champ « Souveraineté informationnelle » rassemble des preuves où la représentation de la France s’organise surtout autour de Politique, Industrie. Sa tonalité dominante dans le sous-corpus est ambivalente.",
+    "analyse": "Ce champ regroupe 14 preuves du data.json, soit 4.1 % du sous-corpus exporté. Dans ce sous-corpus, le ton dominant est Ambivalent et le secteur le plus présent est Politique. Le principal événement associé est Expulsion de Xenia Fedorova - juillet 2026, avec 6 preuves.\n\nLes représentations sont majoritairement individuelles dans les preuves où l’échelle est renseignée. Les secteurs les plus présents sont Politique, Industrie. Les catégories d’événements les plus visibles sont autres contextes documentés, séquences politiques et débats publics, résultats, souveraineté et opérations d’entreprise.\n\nLes termes les plus caractéristiques retenus pour la lecture sont notamment : expulsion, désinformation, ordre public, liberté d'expression, ingérences étrangères, débat public. Les verbes les plus visibles sont : manipuler, expulser, alerter, ordonner, relayer. Les expressions caractéristiques comprennent : menace particulièrement grave et actuelle pour l'ordre public, atteinte grave à la liberté d'expression, liberté de la presse, En France, certaines paroles semblent peser plus lourd que certains actes. Ces éléments décrivent les associations présentes dans les preuves, sans attribuer d’intention aux auteurs ni produire d’explication causale.",
+    "points_cles": [
+      "14 preuves reliées au champ dans le data.json exporté.",
+      "Ton dominant : Ambivalent.",
+      "Secteur le plus présent : Politique.",
+      "Événement principal : Expulsion de Xenia Fedorova - juillet 2026 (6 preuves).",
+      "Échelle : Individuel."
+    ],
+    "nb_sources": 14,
+    "repartition_ton": {
+      "Négatif": 3,
+      "Ambivalent": 7,
+      "Neutre": 1,
+      "Positif": 3
+    },
+    "ton_dominant": "Ambivalent",
+    "secteurs_principaux": [
+      {
+        "nom": "Politique",
+        "nb_sources": 9
+      },
+      {
+        "nom": "Industrie",
+        "nb_sources": 5
+      }
+    ],
+    "evenements_principaux": [
+      {
+        "nom": "Expulsion de Xenia Fedorova - juillet 2026",
+        "nb_sources": 6
+      },
+      {
+        "nom": "Campagne presidentielle francaise 2027",
+        "nb_sources": 2
+      },
+      {
+        "nom": "Licorne Zama et chiffrement homomorphe",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Projet de data centers IA dans l'Oise",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Cyberdéfense française et ANSSI - juin 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Offre de rachat de Criteo - juillet 2026",
+        "nb_sources": 1
+      },
+      {
+        "nom": "Taxe carbone UE et cables sous-marins français - 2027",
+        "nb_sources": 1
+      },
+      {
+        "nom": "France et projection cartographique plus équilibrée - 2026",
+        "nb_sources": 1
+      }
+    ],
+    "echelles": {
+      "Individuel": 13,
+      "Collectif": 1
+    },
+    "termes_caracteristiques": {
+      "noms": [
+        "expulsion",
+        "désinformation",
+        "ordre public",
+        "liberté d'expression",
+        "ingérences étrangères",
+        "débat public",
+        "opinion publique",
+        "OQTF",
+        "liberté de la presse",
+        "gestion des incendies"
+      ],
+      "adjectifs": [
+        "grave",
+        "actuelle",
+        "prorusse",
+        "strategique",
+        "ministériel",
+        "russe",
+        "propagandiste",
+        "non authentique"
+      ],
+      "verbes": [
+        "manipuler",
+        "expulser",
+        "alerter",
+        "ordonner",
+        "relayer",
+        "saper",
+        "observer",
+        "mobiliser"
+      ]
+    },
+    "expressions_caracteristiques": [
+      "menace particulièrement grave et actuelle pour l'ordre public",
+      "atteinte grave à la liberté d'expression",
+      "liberté de la presse",
+      "En France, certaines paroles semblent peser plus lourd que certains actes",
+      "détourner l'opinion publique",
+      "souveraineté de la France face aux ingérences étrangères",
+      "guerre informationnelle",
+      "discours propagandistes non authentiques"
+    ],
+    "associations_lexicales_caracteristiques": [
+      "France + liberté d'expression",
+      "France + Souveraineté informationnelle",
+      "France + Souveraineté industrielle et productive",
+      "France + expulsion",
+      "Etat français + ordre public",
+      "France + liberté de la presse",
+      "France + OQTF",
+      "Macron + gestion des priorités",
+      "France + souveraineté",
+      "France + guerre informationnelle"
+    ],
+    "limites": "Le champ est fortement influencé par un contexte dominant : Expulsion de Xenia Fedorova - juillet 2026 (42.9 % des preuves du champ)."
+  }
+]
